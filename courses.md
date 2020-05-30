@@ -31,3 +31,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/) - Hands-On Python & R In Data Science
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - $
 * [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - $
+* [机器学习【吴恩达|周志华|李宏毅|算法】清单 (https://blog.csdn.net/Julialove102123/java/article/details/78729602) [版权声明：本文为CSDN博主「女王の专属领地」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。]
